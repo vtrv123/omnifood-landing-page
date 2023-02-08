@@ -6,7 +6,7 @@ This project was developed during the HTML and CSS course by Jonas Schmedtmann o
 ## Screenshots
 
 ### Desktop
-![](./screenshot-desktop.png)
+![](./screenshot-desktop.gif)
 
 ### Mobile
 ![](./screenshot-mobile.gif)
