@@ -11,8 +11,5 @@ This project was developed during the HTML and CSS course by Jonas Schmedtmann o
 ### Mobile
 ![](./screenshot-mobile.gif)
 
-### Mobile with navigation menu
-![](./screenshot-mobile-menu.png)
-
 ## Live webpage
 https://vtrv123.github.io/omnifood-landing-page/
