@@ -9,7 +9,7 @@ This project was developed during the HTML and CSS course by Jonas Schmedtmann o
 ![](./screenshot-desktop.png)
 
 ### Mobile
-![](./screenshot-mobile.png)
+![](./screenshot-mobile.gif)
 
 ### Mobile with navigation menu
 ![](./screenshot-mobile-menu.png)
